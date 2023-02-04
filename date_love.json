@@ -1,8 +1,14 @@
 {
-  "" : 0,
-  "" : 0,
-  "data" : {
-  
+    "showAds" : 0,
+    "visible_extra" : 0,
+    "data" : {
+        
+        "startapp_id" : "",
+        "google_banner" : "",
+        "google_interstitial" : "",
+        "google_native" : ""
+    
+    }
+    
   }
   
-}
